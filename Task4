@@ -2,7 +2,7 @@ def replacer(sentence, word1, word2):
     replace = sentence.replace(word1, word2)
     return replace
 
-print('''Welcome to task 4,
+print('''
 Please enter a sentence.
 Then input a word you wish to replace,
 then a word to replace the selected word with.
