@@ -1,4 +1,4 @@
 language: python
 python:
   -"stable"
-script: gulp travis
+
